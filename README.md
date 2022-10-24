@@ -6,7 +6,6 @@ Atualmente moro em :world_map: [Pirapora/MG](https://www.google.com/search?q=Pir
 <div align="center">
 <a href="https://github.com/PFonsecaFV/PFonsecaFV"><img height="180px" align="right" src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/pc_cod_pfonsecafv.gif"/></a>
 
-
   <div align="left" style="display: inline_block">
     <h3>Meus interesses pessoais:</h3>
       <li>🔭 Atualmente estudo Desenvolvimento Web na <strong>Trybe</strong></li>
